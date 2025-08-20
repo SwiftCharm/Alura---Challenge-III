@@ -1,13 +1,13 @@
 # Alura---Challenge-III
 Repositório do Challenge Alura Telecom- Alura ONE
-# 📊 Telecom X - Análise de Evasão de Clientes (Churn)
+# Telecom X - Análise de Evasão de Clientes (Churn)
 
 Este projeto faz parte do **Desafio de Data Science - Programa ONE**.  
 O objetivo é aplicar técnicas de **ETL (Extração, Transformação e Carga)** e **EDA (Análise Exploratória de Dados)** para compreender os fatores que levam clientes da **Telecom X** a cancelarem seus serviços (**churn**).
 
 ---
 
-## 🎯 Propósito da Análise
+# Propósito da Análise
 
 A empresa Telecom X vem sofrendo com **alto índice de evasão de clientes**, mas não sabe exatamente quais fatores explicam esse comportamento.  
 Com esta análise, buscamos:
